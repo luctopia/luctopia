@@ -29,7 +29,17 @@ var city = "Rome"
 
 ## Github Stats
 ![Sudg stats](https://github-readme-stats.vercel.app/api?username=SudgYT&theme=tokyonight) 
-
 ![Sudg Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudgYT&theme=dracula&hide=batchfile,csss)
+
+---
+
+<p align="center">
+<a href="sudg.it/link/discord">
+    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
+  </a>
+<a href="sudg.it/link/youtube">
+    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
+  </a>
+</p>
 
 I love Javascript
