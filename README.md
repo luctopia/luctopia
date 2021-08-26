@@ -15,20 +15,34 @@ var city = "Rome"
 ## Languages and Tools:
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
+ | 
+<code><img height="30" src="https://raw.githubusercontent.com/gnembon/fabric-carpet/master/src/main/resources/assets/carpet/icon.png"></code>
+<code><img height="30" src="https://avatars2.githubusercontent.com/u/5411890"></code>
 
 ---
 
-## Discord Status
+<details>
+  <summary>:zap: Discord Statsus</summary>
+    
 <img height="100px" src="https://discord.c99.nl/widget/theme-4/542597756082978836.png">
+    
+</details>
 
----
-
-## Github Stats
+<details>
+  <summary>:zap: Github Stats</summary>
+    
 ![Sudg stats](https://github-readme-stats.vercel.app/api?username=SudgYT&theme=tokyonight) 
+    
 ![Sudg Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudgYT&theme=dracula&hide=batchfile,csss)
+    
+</details>
 
 ---
 
