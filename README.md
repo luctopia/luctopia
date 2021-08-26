@@ -40,7 +40,7 @@ var city = "Rome"
     
 ![Sudg stats](https://github-readme-stats.vercel.app/api?username=SudgYT&theme=tokyonight) 
     
-![Sudg Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudgYT&theme=dracula&hide=batchfile,csss)
+![Sudg Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudgYT&theme=tokyonight&hide=batchfile,csss)
     
 </details>
 
