@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=LucaGugli)
-
 Hello my name is <b>Luca Guglielminetti</b>
 ```js
 var name = "Luca"
@@ -34,19 +32,21 @@ var city = "Rome"
 <code><img height="30" src="https://avatars2.githubusercontent.com/u/5411890"></code>
 
 ---
+
 <details>
-  <summary>:zap: Discord Statsus</summary>
-    
-<img height="100px" src="https://discord.c99.nl/widget/theme-4/542597756082978836.png">
+  <summary>:zap: Github Stats</summary>
+
+![](https://komarev.com/ghpvc/?username=LucaGugli)
+ 
+![Sudg stats](https://github-readme-stats.vercel.app/api?username=LucaGugli&theme=tokyonight) 
+![Sudg Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaGugli&theme=tokyonight&hide=batchfile,csss)
     
 </details>
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: Discord Statsus</summary>
     
-![Sudg stats](https://github-readme-stats.vercel.app/api?username=LucaGugli&theme=tokyonight) 
-    
-![Sudg Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaGugli&theme=tokyonight&hide=batchfile,csss)
+<img height="100px" src="https://discord.c99.nl/widget/theme-4/542597756082978836.png">
     
 </details>
 
