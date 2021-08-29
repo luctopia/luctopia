@@ -15,8 +15,9 @@ var city = "Rome"
 ## Languages and Tools:
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://devexp.io/wp-content/uploads/2019/05/ts.png"></code>
 <code><img height="30" src="https://www.geekandjob.com/uploads/wiki/f03eab0e2926595f84d8e8903a2c08adcd62320e.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
  ┆ 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://glue-labs.com/wp-content/uploads/2019/04/4.png"></code>
