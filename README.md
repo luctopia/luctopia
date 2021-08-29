@@ -1,10 +1,7 @@
 Hello my name is <b>Luca Guglielminetti</b>
-```js
-var name = "Luca"
-var nickname = ["Sudg", "Sugo"]
-var age = ∞
-var city = "Rome"
-```
+
+ - 🔭 I’m currently working on [NodeMod](https://nodemod.org)
+ - 🌱 I’m currently learning Java
 
 ## Last project
 
@@ -20,10 +17,13 @@ var city = "Rome"
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
  ┆ 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://authy.com/wp-content/uploads/npm-logo.png"></code>
 <code><img height="30" src="https://glue-labs.com/wp-content/uploads/2019/04/4.png"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/27480c90b7f92ea1405594b9e98e151b776c0830e3bb2d80b92656c342bfdf09/68747470733a2f2f692e696d6775722e636f6d2f4c775364416c452e706e67"></code>
  ┆ 
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="30" src="https://i.imgur.com/naGeK8i.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Ubuntu_logoib.svg"></code>
  ┆ 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
