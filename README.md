@@ -7,7 +7,7 @@ Hello my name is <b>Luca Guglielminetti</b>
 
 **Axel Bot** - A discord bot to watch videos and play games with your friends! - [Invite LInk](https://dev.sudg.it/bot/axel)
 
-**Vanilla+** - A DataPack that adds many functions to minecraft! - [Github Page](https://github.com/LucaGugli/VanillaPlus), Docs
+**Vanilla+** - A DataPack that adds many functions to minecraft! - [Github Page](https://github.com/LucaGugli/VanillaPlus), [Docs](https://vplus.sudg.it)
 
 ---
 
