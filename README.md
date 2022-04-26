@@ -1,13 +1,11 @@
 Hello my name is <b>Luca Guglielminetti</b>
 
  - 🔭 I’m currently working on [NodeMod](https://nodemod.org)
- - 🌱 I’m currently learning Java
+ - 🌱 I’m currently learning ???
 
 ## Last project
 
-**Vanilla+** - A DataPack that adds many functions to minecraft! - [Github Page](https://github.com/LucaGugli/VanillaPlus), [Docs](https://vplus.sudg.it)
-
-**Axel Bot** - A discord bot to watch videos and play games with your friends! - [Invite LInk](https://dev.sudg.it/bot/axel)
+not any
 
 ---
 
