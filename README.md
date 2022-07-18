@@ -1,7 +1,8 @@
 Hello my name is <b>Luca Guglielminetti</b>
 
- - 🔭 I’m currently working on [NodeMod](https://nodemod.org)
- - 🌱 I’m currently learning ???
+ - 🔭 I’m currently working on [NodeMod](https://nodemod.org) as <b>Moderator</b> and <b>Designer</b> (occasionally)
+ - 🌱 I’m currently learning <b>C</b>
+ - 💭 I want learn <b>C#</b> and <b>Java</b>
 
 ## Last project
 
@@ -12,8 +13,6 @@ not any
 ## Languages and Tools:
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="30" src="https://devexp.io/wp-content/uploads/2019/05/ts.png"></code>
-<code><img height="30" src="https://www.geekandjob.com/uploads/wiki/f03eab0e2926595f84d8e8903a2c08adcd62320e.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
  ┆ 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -23,14 +22,9 @@ not any
  ┆ 
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="30" src="https://i.imgur.com/naGeK8i.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Ubuntu_logoib.svg"></code>
  ┆ 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
- ┆ 
-<code><img height="30" src="https://fabricmc.net/assets/logo.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/gnembon/fabric-carpet/master/src/main/resources/assets/carpet/icon.png"></code>
-<code><img height="30" src="https://avatars2.githubusercontent.com/u/5411890"></code>
+
 
 ---
 
@@ -53,11 +47,3 @@ not any
 
 ---
 
-<p align="center">
-<a href="https://sudg.it/link/discord">
-    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
-  </a>
-<a href="https://sudg.it/link/youtube">
-    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
-  </a>
-</p>
