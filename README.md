@@ -1,8 +1,9 @@
 Hello my name is <b>Luca Guglielminetti</b>
+And I love typing and tech
 
  - 🔭 I’m currently working on [NodeMod](https://nodemod.org) as <b>Moderator</b> and <b>Designer</b> (occasionally)
- - 🌱 I’m currently learning <b>C</b>
- - 💭 I want learn <b>C#</b> and <b>Java</b>
+ - 🌱 I’m currently learning <b>Web Dev</b>
+ - 💭 I want learn <b>Somethin?</b>
 
 ## Last project
 
