@@ -3,7 +3,7 @@ And I love typing and tech
 
  - 🔭 I’m currently working on [NodeMod](https://nodemod.org) as <b>Moderator</b> and <b>Designer</b> (occasionally)
  - 🌱 I’m currently learning <b>Web Dev</b>
- - 💭 I want learn <b>Somethin?</b>
+ - 💭 I want learn <b>Something?</b>
 
 ## Last project
 
