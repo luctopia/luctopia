@@ -1,9 +1,9 @@
 Hello my name is <b>Luca Guglielminetti</b>
 And I love typing and tech
 
- - 🔭 I’m currently working on [NodeMod](https://nodemod.org) as <b>Moderator</b>
- - 🌱 I’m currently learning <b>Arduino</b>
- - 💭 I want learn <b>Something?</b>
+ - 🔭 I’m an old member of [NodeMod](https://nodemod.org) as <b>Moderator</b>
+ - 🌱 I’m currently learning <b>Arduino and Machine Learning</b>
+ - 💭 I want learn <b>?</b>
 
 ## Last project
 
