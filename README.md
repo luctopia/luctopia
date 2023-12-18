@@ -2,7 +2,7 @@ Hello my name is <b>Luca Guglielminetti</b>
 And I love typing and tech
 
  - 🔭 I’m an old member of [NodeMod](https://nodemod.org) 💛
- - 🌱 I’m currently learning <b>Arduino and Machine Learning</b>
+ - 🌱 I’m currently learning <b>Arduino and CyberSecurity</b>
  - 💭 I want learn <b>?</b>
 
 ## Last project
