@@ -7,7 +7,7 @@ And I love typing and tech
 
 ## Last project
 
-not any
+[A flipper zero wallpapers repository](https://github.com/LucaGugli/FlipperZero-Wallpapers)
 
 ---
 
