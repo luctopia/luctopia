@@ -3,7 +3,7 @@ And I love typing and tech
 
  - 🔭 I’m an old member of [NodeMod](https://nodemod.org) 💛
  - 🌱 I’m currently learning <b>C++ and CyberSecurity</b>
- - 💭 I want learn <b>Making 3ds/wii homebrew staff</b>
+ - 💭 I want learn <b>Making 3ds/wii homebrew stuff</b>
 
 ## Last project
 
