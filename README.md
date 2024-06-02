@@ -2,12 +2,12 @@ Hello my name is <b>Luca Guglielminetti</b>
 And I love typing and tech
 
  - 🔭 I’m an old member of [NodeMod](https://nodemod.org) 💛
- - 🌱 I’m currently learning <b>C++ and CyberSecurity</b>
- - 💭 I want learn <b>Making 3ds/wii homebrew stuff</b>
+ - 🌱 I’m currently learning <b>Circuit Python and [MicroHydra](https://github.com/echo-lalia/Cardputer-MicroHydra/)</b>
+ - 💭 I want learn <b>Making nintendo homebrew stuff</b>
 
 ## Last project
 
-[A flipper zero wallpapers repository](https://github.com/LucaGugli/FlipperZero-Wallpapers)
+[Gamescore - Microhydra score counter]()
 
 ---
 
@@ -20,6 +20,7 @@ And I love typing and tech
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"></code>
  ┆ 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Adafruit_blinka_angles-left.svg/1200px-Adafruit_blinka_angles-left.svg.png"></code>
 <code><img height="30" src="https://authy.com/wp-content/uploads/npm-logo.png"></code>
 <code><img height="30" src="https://glue-labs.com/wp-content/uploads/2019/04/4.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
@@ -28,7 +29,7 @@ And I love typing and tech
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
 <code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"></code>
 <code><img height="30" src="https://cdn.flipperzero.one/qFlipper_macOS_256px_ugly.png"></code>
-
+<code><img height="30" src="https://pbs.twimg.com/profile_images/1491659573413183489/WagC2sQk_400x400.png"></code>
 
 ---
 
