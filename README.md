@@ -1,4 +1,4 @@
-Hello my name is <b>Luca Guglielminetti</b>
+Hi my name is <b>Luca</b>
 And I love typing and tech
 
  - 🔭 I’m an old member of [NodeMod](https://nodemod.org) 💛
