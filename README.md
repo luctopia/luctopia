@@ -7,7 +7,7 @@ And I love typing and tech
 
 ## Last project
 
-[Gamescore - Microhydra score counter](https://github.com/LucaGugli/mh-gamescore)
+[Gamescore](https://github.com/LucaGugli/mh-gamescore) - Microhydra score counter
 
 ---
 
