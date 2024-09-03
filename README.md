@@ -2,8 +2,8 @@ Hi my name is <b>Luca</b>
 And I love typing and tech
 
  - 🔭 I’m an old member of [NodeMod](https://nodemod.org) 💛
- - 🌱 I’m currently learning <b>Circuit Python and [MicroHydra](https://github.com/echo-lalia/Cardputer-MicroHydra/)</b>
- - 💭 I want learn <b>Making nintendo homebrew stuff</b>
+ - 🌱 I’m currently learning <b>Nothing ;(</b>
+ - 💭 I want learn <b>Making nintendo homebrew stuff or Cybersequrity stuff</b>
 
 ## Last project
 
